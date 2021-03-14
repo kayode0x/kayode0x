@@ -1,4 +1,4 @@
-- 👋 Hey there, I’m @kayode0x
+- 👋🏾 Hey there, I’m @kayode0x
 - 👀 I’m interested in Full-Stack Web and Mobile Development
 - 🌱 I’m currently learning React/React-Native
 - 📫 How to reach me Insta, Twitter - @kayode0x
