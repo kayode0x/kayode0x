@@ -1,7 +1,7 @@
-- 👋🏾 Hey there, I’m @kayode0x
-- 👀 I’m interested in Full-Stack Web and Mobile Development
-- 🌱 I’m currently learning React/React-Native
-- 📫 How to reach me Insta, Twitter - @kayode0x
+- 👋🏾 Hey there, I’m Kayode Ogunmakinwa.
+- 👀 I’m interested in Full Stack Web and Mobile Development
+- 🌱 I’m currently learning the MERN stack, and also React Native
+- 📫 How to reach me? Insta, Twitter - @kayode0x
 
 <!---
 kayode0x/kayode0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
