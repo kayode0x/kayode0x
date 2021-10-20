@@ -9,7 +9,7 @@
 
 I am a fluent Full-Stack Software Engineer and Computer Science Student.
 
-- 🏗 I work with React/React Native mostly.
-- 🗡 I mostly write in TypeScript or JavaScript. 
-- 🛠 I also on with Backend systems with Node.js and Express.
-- ⚽️ I love football (!soccer). Yeah I love twisting anckles for fun.
+- 🏗  -I work with React/React Native mostly.
+- 🗡  -I mostly write in TypeScript or JavaScript. 
+- 🛠  -I also on with Backend systems with Node.js and Express.
+- ⚽️  -I love football (!soccer). Yeah I love twisting ankles for fun.
