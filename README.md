@@ -1,10 +1,15 @@
-- 👋🏾 Hey there, I’m Kayode Ogunmakinwa
-- 👀 I’m interested in Full Stack Web and Mobile Development
-- 🌱 I’m currently learning the MERN stack, and also React Native
-- 📫 How to reach me? Insta, Twitter - @kayode0x
+<h3 align="center">👋🏾 hey, I'm Kayode.</h3>
 
+<p align="center">
+  <a href="https://twitter.com/kayode0x">Twitter</a> •
+  <a href="https://www.linkedin.com/in/kayode0x/">Linkedin</a>
+</p>
 
-<!---
-kayode0x/kayode0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+I am a fluent Full-Stack Software Engineer and Computer Science Student.
+
+- 🏗 I work with React/React Native mostly.
+- 🗡 I mostly write in TypeScript or JavaScript. 
+- 🛠 I also on with Backend systems with Node.js and Express.
+- ⚽️ I love football (!soccer). Yeah I love twisting anckles for fun.
