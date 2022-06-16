@@ -7,8 +7,8 @@
 
 ---
 
-I am a fluent Full-Stack Software Engineer and Computer Science Student.
+I am a Full-Stack Software Engineer and Computer Science Student.
 
 - 🗡  -I work with React/React Native mostly using TypeScript or JavaScript.
-- 🛠  -I also work on Backend systems with Node.js and Express [ GraphQL ⏳ ].
+- 🛠  -I also work on Backend systems with GO, sometimes Node.js and Express.
 - ⚽️  -I love football (!soccer). Yeah I twist ankles for fun.
