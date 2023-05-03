@@ -1,6 +1,3 @@
-<h3 align="center">👋🏾 hey, I'm Kayode.</h3>
+## 👋🏾 hey, I'm Kayode
 
-<p align="center">
-  <a href="https://twitter.com/kayode0x">Twitter</a> •
-  <a href="https://www.linkedin.com/in/kayode0x/">Linkedin</a>
-</p>
+[![wakatime](https://wakatime.com/badge/user/cd5e881a-f44a-4a14-a885-2d4b96c07dc0.svg)](https://wakatime.com/@cd5e881a-f44a-4a14-a885-2d4b96c07dc0)
